@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ondrej Durmis\\Source\\Repos\\ondrej98\\Visual-Studio\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\Ondrej Durmis\\source\\repos\\ondrej98\\Visual-Studio\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ondrej Durmis\\Source\\Repos\\ondrej98\\Visual-Studio\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\Ondrej Durmis\\source\\repos\\ondrej98\\Visual-Studio\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ondrej Durmis\\Source\\Repos\\ondrej98\\Visual-Studio\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\Ondrej Durmis\\source\\repos\\ondrej98\\Visual-Studio\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\Ondrej Durmis\\Source\\Repos\\ondrej98\\Visual-Studio\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Users\\Ondrej Durmis\\source\\repos\\ondrej98\\Visual-Studio\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\Ondrej Durmis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ondrej Durmis\\Source\\Repos\\ondrej98\\Visual-Studio\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\Ondrej Durmis\\source\\repos\\ondrej98\\Visual-Studio\\ConsoleApp1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
