@@ -18,7 +18,7 @@ namespace ConsoleApp1
             string format = string.Format("{0}:{1}", "Výsledok", citanie);
             
             var poleStringov = format.Split(':')[0];
-
+            // this is what I edit michal
             Console.WriteLine(poleStringov);
             
             string[,] data_pole = new string[,] { { "Ahoj", "Mám sa dobre" } ,{ "Ok", "Povedzme"}, { "Col", "Los"} };
